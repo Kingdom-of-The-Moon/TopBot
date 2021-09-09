@@ -1,0 +1,4 @@
+module.exports = {
+    sudopass: "", // used only for mounting, if you dont trust me check the code :)
+    token: ""
+}
