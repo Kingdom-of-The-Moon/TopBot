@@ -1,0 +1,27 @@
+{
+  "name": "topbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingdom-of-Moon/TopBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingdom-of-Moon/TopBot/issues"
+  },
+  "homepage": "https://github.com/Kingdom-of-Moon/TopBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord.js": "^13.1.0"
+  }
+}
